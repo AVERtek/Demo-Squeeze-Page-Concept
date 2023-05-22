@@ -1,17 +1,17 @@
 #title: AVERtek # your name photo (or website title) here
-logo1: "images/SILVA-LA_banner blk.PNG? raw=true" # your photo (or logo) here
+logo1: "images/SILVA-LA_banner blk.PNG? style="max-width: 100%; max-height: 100%" raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <!--<h1 style="color:#215732;"><p style="text-align:center;"><b>MEANS HOME</h1></b></p>
   <br><br> -->
   <h2 style="color:#A28D5B;"><em><p style="text-align:center;"><b>THE FUTURE OF APARTMENT HOME LIVING IS COMING!</h2></em></b></p>
   <br>
-  <h3><p style="text-align:center;"<b>WALK ABOUT ACTUAL 3D/4D AR APARTMENT TOUR SOON</h3></b></p>
+  <h3><p style="text-align:center;"<b>ACTUAL 3D/4D AR APARTMENT TOUR COMING SOON</h3></b></p>
   <br><br> 
   <h3><a href="https://silva-la.com/?utm_source=AVERtek&utm_medium=AR" onclick="getOutboundLink('https://silva-la.com/?utm_source=AVERtek&utm_medium=AR'); return false;"<b><p style="text-align:center;"> A GLIMPSE OF LUXURY LIVING NEXT YEAR</h3></b></p></a> 
   <br><br>
   <h3><a href="https://earth.google.com/web/search/235+North+Hoover+Street,+Los+Angeles,+CA/@34.0753897,-118.2839633,112.61869341a,857.12150457d,35y,143.93502925h,45t,0r/data=CpMBGmkSYwolMHg4MGMyYzc2OTA4ZGZjZjExOjB4ZjI4ZDNlNTQ5NTg0M2I5YRlF-qNepglBQCHpsGd0LJJdwCooMjM1IE5vcnRoIEhvb3ZlciBTdHJlZXQsIExvcyBBbmdlbGVzLCBDQRgBIAEiJgokCWubDq4940BAEXt960WJ4UBAGb_9xjrGi13AIdMwz3R5jF3A" onclick="getOutboundLink('https://earth.google.com/web/search/235+North+Hoover+Street,+Los+Angeles,+CA/@34.0753897,-118.2839633,112.61869341a,857.12150457d,35y,143.93502925h,45t,0r/data=CpMBGmkSYwolMHg4MGMyYzc2OTA4ZGZjZjExOjB4ZjI4ZDNlNTQ5NTg0M2I5YRlF-qNepglBQCHpsGd0LJJdwCooMjM1IE5vcnRoIEhvb3ZlciBTdHJlZXQsIExvcyBBbmdlbGVzLCBDQRgBIAEiJgokCWubDq4940BAEXt960WJ4UBAGb_9xjrGi13AIdMwz3R5jF3A'); return false;"<b><p style="text-align:center;"> EXPLORE OUR FUTURE NEIGHBORHOOD</h3></b></p></a> 
   <br><br>
-  <h3><p>See Clubhouse Drawings <a "pdf/SILVA-LA Future Plans.pdf">Here</a></p>
+  <h3><p>See Clubhouse Blueprints <a href="/pdf/SILVA-LA Future Plans.pdf">Here</a></p>
   <!--<h3 style="color:#A28D5B;"><em><p style="text-align:center;"><b>50% Off All Summer Long</h2></em></b></p> -->
   <br><br>
 theme: jekyll-theme-minimal
