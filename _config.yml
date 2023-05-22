@@ -13,7 +13,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <h3><a href="https://github.com/AVERtek/Floorplan-Demo-Tester/blob/main/pdf/SILVA-LA%20Future%20Plans.pdf"><p style="text-align:center;">SEE CLUBHOUSE BLUEPRINTS</a></h3>
   <br><br>
-  <h2><a href="https://www.aweber.com/?utm_source=AVERtek&utm_medium=AR" onclick="getOutboundLink('https://www.aweber.com/?utm_source=AVERtek&utm_medium=AR'); return false;"<b><p style="text-align:center;">JOIN VIP TOUR WAITING LIST</h2></b></p></a> 
+  <h2><a href="https://www.aweber.com/?utm_source=AVERtek&utm_medium=AR" onclick="getOutboundLink('https://www.aweber.com/?utm_source=AVERtek&utm_medium=AR'); return false;"<b><p style="text-align:center;">JOIN OUR WAITING LIST FOR A "FIRST LOOK" VIP TOUR</h2></b></p></a> 
   <br><br>
 theme: jekyll-theme-minimal
 # Google Analytics
