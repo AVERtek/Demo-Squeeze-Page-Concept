@@ -1,2 +1,2 @@
 #  Floorplan Demo Tester
-AR 1 Bedroom Apartment
+3D/4D AR Futuristic Apartment Living
