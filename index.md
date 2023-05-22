@@ -1,5 +1,5 @@
 <!--<h2 style="text-align: center;" markdown="1"><a href="https://avertek.github.io/AlexanBahay-WalkingTour/" onclick="getOutboundLink('https://avertek.github.io/AlexanBahay-WalkingTour/'); return false;"> Computer: Immersive 3D Walking Tour</a></h2> <!-- Loads <model-viewer> for old browsers like IE11: -->
-<h1 style="text-align: center;" markdown="1"> FULL EXPERIENCE COMING SOON...</h1><h2 style="text-align: center;" markdown="1"><b style="color:#ffffff;"><p style="font-family:Arial"> Check back for Our 4D/Augmented Reality Lifesize Floorplan Walking Tour</p></h2></b>
+<h1 style="text-align: center;" markdown="1"> FULL EXPERIENCE COMING SOON...</h1><h2 style="text-align: center;" markdown="1"><b style="color:#000000;"><p style="font-family:Arial"> Check back for Our 4D/Augmented Reality Lifesize Floorplan Walking Tour</p></h2></b>
 <!-- Loads <model-viewer> for old browsers like IE11: -->
 <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js">
   </script>
