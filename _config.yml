@@ -5,7 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br> -->
   <h2 style="color:#7030A0;"><em><p style="text-align:center;"><b>THE FUTURE OF APARTMENT HOME LIVING IS COMING!</h2></em></b></p>
   <br>
-  <h3><p style="text-align:center;"<b>ACTUAL 3D/4D AR APARTMENT TOUR COMING SOON</h3></b></p>
+  <h3><p style="color:#325165;text-align:center;"<b>ACTUAL 3D/4D AR APARTMENT TOUR COMING SOON</h3></b></p>
   <br><br> 
   <h3><a href="https://silva-la.com/?utm_source=AVERtek&utm_medium=AR" onclick="getOutboundLink('https://silva-la.com/?utm_source=AVERtek&utm_medium=AR'); return false;"<b><p style="text-align:center;"> A GLIMPSE OF LUXURY LIVING NEXT YEAR</h3></b></p></a> 
   <br><br>
@@ -13,7 +13,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <h3><a href="https://github.com/AVERtek/Floorplan-Demo-Tester/blob/main/pdf/SILVA-LA%20Future%20Plans.pdf">SEE CLUBHOUSE BLUEPRINTS</a></h3>
   <br><br>
-  <h3 style="color:#7030A0;"><em><p style="text-align:center;"><a href="https://www.aweber.com/?utm_source=AVERtek&utm_medium=AR" onclick="getOutboundLink('https://www.aweber.com/?utm_source=AVERtek&utm_medium=AR'); return false;"<b> JOIN OUR VIP TOUR WAITING LIST</h3></b></p></a> 
+  <h3 style="color:#7030A0; text-align:center;"><a href="https://www.aweber.com/?utm_source=AVERtek&utm_medium=AR" onclick="getOutboundLink('https://www.aweber.com/?utm_source=AVERtek&utm_medium=AR'); return false;"<b> JOIN OUR VIP TOUR WAITING LIST</h3></b></p></a> 
   <br><br>
 theme: jekyll-theme-minimal
 # Google Analytics
