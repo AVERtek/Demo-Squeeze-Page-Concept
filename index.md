@@ -1,5 +1,5 @@
 <!--<h2 style="text-align: center;" markdown="1"><a href="https://avertek.github.io/AlexanBahay-WalkingTour/" onclick="getOutboundLink('https://avertek.github.io/AlexanBahay-WalkingTour/'); return false;"> Computer: Immersive 3D Walking Tour</a></h2> <!-- Loads <model-viewer> for old browsers like IE11: -->
-<h2 style="text-align: center;" markdown="1"> Our Futuristic Apartment Living Goes Beyond Living on the Enterprise</h2>
+<h2 style="text-align: center;" markdown="1"> The Future of Apartment Living is Coming... Join Our Waiting List</h2>
 <!-- Loads <model-viewer> for old browsers like IE11: -->
 <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js">
   </script>
