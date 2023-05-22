@@ -1,5 +1,5 @@
 <!--<h2 style="text-align: center;" markdown="1"><a href="https://avertek.github.io/AlexanBahay-WalkingTour/" onclick="getOutboundLink('https://avertek.github.io/AlexanBahay-WalkingTour/'); return false;"> Computer: Immersive 3D Walking Tour</a></h2> <!-- Loads <model-viewer> for old browsers like IE11: -->
-<h1 style="text-align: center;" markdown="1"> FULL EXPERIENCE COMING SOON...</h1><h2 style="text-align: center;"><b>Check back for Our 4D/Augmented Reality Lifesize Floorplan Walking Tour</b>
+<h1 style="text-align: center;" markdown="1"> FULL EXPERIENCE COMING SOON...</h1><h2 style="text-align: center;"><b>Check Back for Our 4D/Augmented Reality Lifesize Floorplan Walking Tour</b>
 <!-- Loads <model-viewer> for old browsers like IE11: -->
 <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js">
   </script>
@@ -53,7 +53,6 @@ var getOutboundLink = function(url) {
   </script>
 <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js"></script>
 
----
 
 <h3 style="text-align: center;" markdown="1"><a href="https://avertek.net/xr-now" onclick="getOutboundLink('https://avertek.net/xr-now'); return false;">Learn More About AVERtek's XR-NOW</a></h3> 
   <br><br>
